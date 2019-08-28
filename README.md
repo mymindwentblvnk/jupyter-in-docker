@@ -1,21 +1,17 @@
 # python-back-2-basics
 
-## Setup
+## Build & Run
 
 ### Prerequisites
 
 Docker has to be installed on your system. And a browser you'd recommend your friends.
 
-### Building the Jupyter Lab container
+### Running Jupyter Lab
 
-`sh build.sh`
+`sh run.sh`
 
-### Starting Jupyter Lab
-
-`sh start.sh` will start the container which starts the jupyter server and provides you with an URL to open in your browser.
-
-The URL looks like this (taken from the logs)
-
+This will build and run the docker container. Since this is very fast the building part is executed everytime for simplification.
+The logs provide you with an URL to open in your browser:
 ```
     Or copy and paste one of these URLs:
      ...
