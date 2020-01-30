@@ -1,4 +1,4 @@
-# python-back-2-basics
+# jupyter-in-docker
 
 ## Build & Run
 
